@@ -1,0 +1,15 @@
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/bin/Debug/net8.0/problema3
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/bin/Debug/net8.0/problema3.deps.json
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/bin/Debug/net8.0/problema3.runtimeconfig.json
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/bin/Debug/net8.0/problema3.dll
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/bin/Debug/net8.0/problema3.pdb
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.AssemblyInfoInputs.cache
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.AssemblyInfo.cs
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.csproj.CoreCompileInputs.cache
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.sourcelink.json
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.dll
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/refint/problema3.dll
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.pdb
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/problema3.genruntimeconfig.cache
+/Volumes/devfpizarro/DEVELOPERS/PRUEBAS TECNICAS/DATAMART/prueba_tecnica_datamart/code/problema_3/obj/Debug/net8.0/ref/problema3.dll
